@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+    margin-left: 10px;
+    width: 70%;
+    margin: 0px;
+
+}
+
+
+div{
+    display: flex;
+    flex-direction: column;
+}
+
+article  {
+    display: flex;
+    width: 70%;
+    padding: 10px;
+}
+img{
+    width: 30%;}
+h2 {
+    text-transform: uppercase;
+}
